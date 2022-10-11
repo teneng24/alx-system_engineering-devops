@@ -1,2 +1,2 @@
 #!/bin/bash
-alias ls="rm * "
+echo "This is my README file
